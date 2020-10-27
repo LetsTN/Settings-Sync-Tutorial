@@ -41,4 +41,4 @@ O download automático não é habilitado por default. Para habilitá-lo, primei
 
 ### Criando um gist público
 
-O Settings Sync cria um gist privado por default. Mas caso você queira criar um gist público para compartilhar suas configurações, use `Ctrl+Shift+P` e v `"SSync : Advance Options > Share Settings with Public GIST"`.
+O Settings Sync cria um gist privado por default. Mas caso você queira criar um gist público para compartilhar suas configurações, use `Ctrl+Shift+P` e v `"Sync: Advance Options > Share Settings with Public GIST"`.
